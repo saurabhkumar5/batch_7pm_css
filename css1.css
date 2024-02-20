@@ -1,0 +1,51 @@
+/* universal selector */
+*{
+    background-color: yellowgreen;
+    color: rgb(54, 41, 130);
+}
+
+h4{
+    background-color: aqua;
+}
+h5{
+    background-color: chocolate;
+    color: blueviolet;
+}
+div{
+    background-color: cadetblue;
+}
+.momo{
+    background-color: yellow;
+}
+.momos{
+    background-color: maroon;
+    color: aqua;
+}
+#naina{
+    background-color: green;
+}
+
+div{
+    background-color: aqua;
+}
+.tomato{
+    background-color: yellow;
+}
+#chatni{
+    background-color: blue;
+}
+div{
+    background-color: blueviolet !important;
+}
+h1{
+    background-color: darkgoldenrod;
+}
+h1{
+    background-color: red;
+}
+
+h2{
+    color: yellow;
+}
+
+/* important>id>class>tagname */
